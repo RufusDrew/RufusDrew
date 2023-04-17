@@ -15,7 +15,7 @@
 - 💬 Ask me about related to web dev stuff
 - 📫 How to reach me: Gmail: rufusdrew3@gmail.com
 - 😄 Pronouns: nothing....
-- ⚡ Fun fact: i love UI Desiging 
+- ⚡ Fun fact: i love UI Designing 
 
 ### 1.1. Technolagies 
 
